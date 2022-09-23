@@ -13,3 +13,5 @@
 ## After you get access_token, you should add this token as Bearer token to your requests
 ![Ekran görüntüsü 2022-09-23 153359](https://user-images.githubusercontent.com/50598846/191961205-4fbc09f1-adfe-4362-882f-24fbce3744c3.jpg)
 
+## Example request with access_token
+![Ekran görüntüsü 2022-09-23 150924](https://user-images.githubusercontent.com/50598846/191961318-1b9bb329-6f0e-4664-9733-d07d96a7a436.jpg)
