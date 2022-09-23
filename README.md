@@ -1,3 +1,6 @@
+# You can create and edit projects through this app. In addition, you can create work histories related to these projects and create comments related to these work histories. In short, you can think of it in a Trello-style application logic. Additionally, there is an infrastructure to query work histories and send messages over Slack according to the work history status. You can view how to create all builds on swagger documentation (/docs)
+
+## Before start app, you should add your slack_bot_token and and slack_channel_name to config.json file(if you want to get message about work histories)
 
 ## To start app, you should type "docker-compose up --build"(Make sure that you have docker and it is working)
 
