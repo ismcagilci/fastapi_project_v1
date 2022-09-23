@@ -1,0 +1,8 @@
+{
+"secret_key" : "e8ab4a0dbbd799e4c02fd59b56b2195eed15c21d912f4a3eec73e0bae7a30876",
+"algorithm" : "HS256",
+"access_token_expire_minutes" : 180,
+"slack_bot_token" : "xoxb-4111284233270-4117900679091-goIL1aT3r48GYnTw9fu25IKs",  
+"slack_channel_name" :  "#work_histories",
+"sqlalchemy_database_url":"postgresql://admin:123456@db:5432/fastapi_db"
+}
