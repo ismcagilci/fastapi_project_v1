@@ -1,4 +1,3 @@
-# fastapi_project_v1
 
 ## To start app, you should type "docker-compose up --build"(Make sure that you have docker and it is working)
 
